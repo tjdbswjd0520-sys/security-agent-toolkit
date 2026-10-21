@@ -1,4 +1,4 @@
-# security-agent-toolkit : python을 이용한 로그분석 자동화 툴 만들기 수업 자료
-### agent_core : notebook 파일
-#### - 자료형, json, API, 예외처리, 파일입출력, 분석 자동화, 보고서 작성
+# security-agent-toolkit : SKT ALEPH 수업 파일
+### agent_core : 파이썬을 이용한 ai 자동화 수업 자료
 ### docs : 메모장
+### network_zt : 보안 관제 및 보고서 작성 수업 자료
